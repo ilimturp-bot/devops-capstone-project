@@ -1,14 +1,25 @@
-## 1. Setup Development Environment
+---
+name: User Story
+about: Create a user story
+title: "[USER STORY] "
+labels: ""
+assignees: ""
+---
 
-**As a** developer  
-**I need** a development environment configured  
-**So that** I can develop and test the account microservice
+**As a** [role]
+
+**I need** [function]
+
+**So that** [benefit]
 
 ### Details and Assumptions
-    * [document what you know] 
+
+* [document what you know]
 
 ### Acceptance Criteria
-gherkin
-Given access to the project repository
-When I clone and configure the environment
-Then all dependencies are installed successfully
+
+```gherkin
+Given [some context]
+When [certain action is taken]
+Then [the outcome of action is observed]
+``
